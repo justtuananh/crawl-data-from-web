@@ -1,0 +1,7 @@
+[{
+    "category":"https://www.globaltimes.cn/world/index.html",
+    "elm_href":{"path":"//*[@class='new_title_ms']",
+                "attribute":"href"}
+    "content":{"path":"//*[@class='new_title_ms']",
+                "attribute":"href"}
+}]
